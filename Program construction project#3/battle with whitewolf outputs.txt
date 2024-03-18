@@ -1,0 +1,102 @@
+[ GeraltofRivia]    vs    [jude]
+Turn1:[ GeraltofRivia]
+[Warlock]    attacking    [Zoro]
+[Zoro] health: [7]
+[Warlock] health: [9]
+-------------------------------------
+
+Turn2:[jude]
+[ Sunfire]    attacking    [Ranger]
+[Ranger] health: [1]
+[ Sunfire] health: [7]
+-------------------------------------
+
+Turn3:[ GeraltofRivia]
+[Warlock]    attacking    [Zoro]
+[Zoro] health: [1]
+[Warlock] health: [9]
+-------------------------------------
+
+Turn4:[jude]
+[ Sunfire]    attacking    [Ranger]
+[Ranger] health: [-6]
+[ Sunfire] health: [7]
+[Ranger] died! 
+-------------------------------------
+
+Turn5:[ GeraltofRivia]
+[Warlock]    attacking    [Zoro]
+[Zoro] health: [-4]
+[Warlock] health: [9]
+[Zoro] died! 
+-------------------------------------
+
+Turn6:[jude]
+[ Sunfire]    attacking    [Warlock]
+[Warlock] health: [2]
+[ Sunfire] health: [7]
+-------------------------------------
+
+Turn7:[ GeraltofRivia]
+[Warlock]    attacking    [ Sunfire]
+[ Sunfire] health: [1]
+[Warlock] health: [2]
+-------------------------------------
+
+Turn8:[jude]
+[ Sunfire]    attacking    [Warlock]
+[Warlock] health: [-4]
+[ Sunfire] health: [1]
+[Warlock] died! 
+-------------------------------------
+
+Turn9:[ GeraltofRivia]
+[Dragon]    attacking    [ Sunfire]
+[ Sunfire] health: [-4]
+[Dragon] health: [15]
+[ Sunfire] died! 
+-------------------------------------
+
+Turn10:[jude]
+[Soother]    attacking    [Soother]
+[Soother] health: [10]
+[Soother] health: [10]
+-------------------------------------
+
+Turn11:[ GeraltofRivia]
+[Dragon]    attacking    [Soother]
+[Soother] health: [4]
+[Dragon] health: [15]
+-------------------------------------
+
+Turn12:[jude]
+[Soother]    attacking    [Soother]
+[Soother] health: [5]
+[Soother] health: [5]
+-------------------------------------
+
+Turn13:[ GeraltofRivia]
+[Dragon]    attacking    [Soother]
+[Soother] health: [0]
+[Dragon] health: [15]
+-------------------------------------
+
+Turn14:[jude]
+[Soother]    attacking    [Soother]
+[Soother] health: [1]
+[Soother] health: [1]
+-------------------------------------
+
+Turn15:[ GeraltofRivia]
+[Dragon]    attacking    [Soother]
+[Soother] health: [-4]
+[Dragon] health: [15]
+[Soother] died! 
+-------------------------------------
+
+match finished
+jude won!
+ GeraltofRivia XP: [10] gold coins: 430
+jude XP: [10] gold coins: 65
+
+Process finished with exit code 0
